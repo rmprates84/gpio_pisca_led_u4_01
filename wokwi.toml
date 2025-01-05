@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/leds_exemplo_1.uf2'
+elf = 'build/leds_exemplo_1.elf'
